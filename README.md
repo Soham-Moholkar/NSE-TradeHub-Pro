@@ -404,43 +404,5 @@ This project is developed for the EDI course (Semester 3). It demonstrates:
 
  **Disclaimer:** This is a paper trading platform for educational purposes only. Not for real money trading. All predictions are for learning, not financial advice.
 
----
 
-##  Acknowledgments
 
-- **yfinance** - NSE data provider
-- **Google Gemini** - AI capabilities
-- **Lightweight-charts** - Professional charting
-- **FastAPI** - High-performance backend
-- **Next.js** - Modern React framework
-- **Tailwind CSS** - Beautiful styling
-
----
-
-##  Support
-
-For issues:
-1. Check this README
-2. Review API docs at /docs
-3. Check console logs (F12)
-4. Verify both servers running
-
----
-
-##  License
-
-Educational project - MIT License
-
----
-
-** Production Ready - All 7 Phases Complete! **
-
-The platform is feature-complete with professional-grade trading capabilities, AI assistance, real-time data, and beautiful UX.
-
-**Happy Trading! **
-
----
-
-*Last Updated: February 5, 2026*  
-*Version: 1.0.0*  
-*Created by: NSE Pro Development Team*
